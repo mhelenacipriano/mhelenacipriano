@@ -34,9 +34,9 @@ Currently focused on improving my skills in frontend architecture and building s
 
 ## 📂 Projects
 
-- 🔗 Project 1 — [link here]  
-- 🔗 Project 2 — [link here]  
-- 🔗 Project 3 — [link here]  
+- 🔗 Dashboard for Healthcare Facilities' Management — [[link here](https://clinicdesk-delta.vercel.app/)]  
+- 🔗 Movie Library with AI integration — [[link here](https://movie-lib-one.vercel.app/)]  
+- 🔗 Web and Mobile Interactive Spirograph — [[link here](https://spirograph-three.vercel.app/)]  
 
 ---
 
