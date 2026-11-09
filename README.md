@@ -1,48 +1,45 @@
 # Hi, I'm Maria Helena 👋
 
-Frontend Engineer focused on building scalable, high-quality web applications with strong UX and clean architecture.
+I'm a software engineer based in João Pessoa, Brazil. Since 2021, I've worked on web and mobile applications across financial services, public-sector SaaS, and IoT.
 
----
+My main stack is React, TypeScript, Python, and Node.js. I enjoy making complex workflows easier to use and building software that's reliable and easy to maintain.
 
 ## 💻 Tech Stack
 
-- **Frontend:** React, JavaScript (ES6+)
-- **Styling:** CSS3, SCSS, Flexbox, Grid
-- **State & Architecture:** Component-based architecture, Hooks, state management patterns
-- **APIs:** REST APIs, Fetch
-- **Testing:** Jest, React Testing Library
-- **Tools:** Git, GitHub, Figma, Chrome DevTools
+- **Frontend:** React, Next.js, React Native, TypeScript, JavaScript, HTML5
+- **Styling & UI:** CSS3, SCSS, Material UI, React Admin, responsive design
+- **State & Data:** Redux Toolkit, React Query, Apollo Client
+- **Backend:** Python, Django, Node.js, Go, REST APIs, GraphQL
+- **Databases:** MySQL, DynamoDB
+- **Testing:** pytest, Jest, React Testing Library, Cypress
+- **Cloud & Development:** AWS Lambda, SQS, CloudWatch, Docker Compose, Git, CI/CD, Nx
+- **AI:** LLM integration, prompt engineering, streaming responses, Claude Code
 
----
+## 🚀 What I Work On
 
-## 🚀 About Me
+My experience includes:
 
-Frontend Developer with experience building real-world applications using React and modern JavaScript.
+- Financial services and risk-management interfaces built with React and TypeScript in a shared monorepo.
+- Procurement workflows, backend APIs, and role-based permissions for a public-sector SaaS platform.
+- A Notion-style document editor with AI-generated summary reports.
+- Go APIs for an IoT device-monitoring platform.
+- Web and mobile portals for agribusiness, including financial and insurance products.
+- Serverless AWS integrations between applications and external services.
 
-I enjoy working on:
-- clean UI and UX
-- reusable components
-- well-structured code
-- integrating APIs and building data-driven interfaces
+I use AI coding tools daily for implementation, code reviews, specifications, and debugging, alongside automated tests and peer reviews.
 
-Currently focused on improving my skills in frontend architecture and building strong portfolio projects.
+I like working closely with product, design, and engineering teams to understand what people need and turn that into useful features. I'm particularly interested in technology that improves healthcare and everyday life.
 
-📍 Based in Brazil  
-🌍 Fluent in English  
-
----
+📍 João Pessoa, Brazil  
+🌍 Portuguese · Fluent English (C2) · Professional French
 
 ## 📂 Projects
 
-- 🔗 Dashboard for Healthcare Facilities' Management — [[link here](https://clinicdesk-delta.vercel.app/)]  
-- 🔗 Movie Library with AI integration — [[link here](https://movie-lib-one.vercel.app/)]  
-- 🔗 Web and Mobile Interactive Spirograph — [[link here](https://spirograph-three.vercel.app/)]  
-
----
+- [Healthcare Facilities Management Dashboard](https://clinicdesk-delta.vercel.app/)
+- [Movie Library with AI Integration](https://movie-lib-one.vercel.app/)
+- [Interactive Spirograph for Web and Mobile](https://spirograph-three.vercel.app/)
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mhelenacp  
-- 📧 Email: mariahelenatw@gmail.com  
-
----
+- [LinkedIn](https://www.linkedin.com/in/mhelenacp)
+- [mariahelenatw@gmail.com](mailto:mariahelenatw@gmail.com)
